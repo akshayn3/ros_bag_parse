@@ -1,0 +1,5 @@
+pathlib
+pickle5  # For compatibility with Python 3 and above; if needed
+rosbags
+numpy
+matplotlib
